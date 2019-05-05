@@ -1,0 +1,160 @@
+lord's resistance army insurgency
+CG
+south sudanese civil war
+SU
+kurdish-turkish conflict
+KT
+terrorism in mexico
+ME
+rohingya conflict
+RO
+insurgency in manipur
+MA
+south thailand insurgency
+TH
+terrorism in new zealand
+NZ
+naxalite-maoist insurgency
+NA
+new people's army rebellion
+AR
+internal conflict in myanmar
+MY
+anglophone crisis
+AN
+israeli–palestinian conflict
+IP
+mapuche conflict
+MAP
+kurdish–turkish conflict
+KT
+kamwina nsapu rebellion
+KA
+terrorism in the united kingdom
+UK
+terrorism in europe
+EU
+syrian civil war
+SY
+terrorism in germany
+GE
+shia islam in saudi arabia
+SA
+war in afghanistan
+AF
+libyan civil war
+LI
+spillover of somali civil war
+SO
+terrorism in sri lanka
+SL
+spillover of the syrian civil war
+SY
+colombian conflict
+CO
+communal conflicts in nigeria
+NI
+dissident irish republican campaign
+IR
+conflict in the niger delta
+NI
+allied democratic forces insurgency
+FO
+insurgency in the north caucasus
+CA
+[319]
+NO
+terrorism in kenya
+KE
+terrorism in the united states
+US
+papua conflict
+PA
+kivu conflict
+KI
+islamist insurgency in mozambique
+MO
+somali civil war
+SO
+northern mali conflict
+MAL
+venezuelan protests (2014–present)
+VE
+naxalite–maoist insurgency
+NA
+yemeni civil war
+YE
+central african republic civil war
+CAR
+[243]
+NO
+insurgency in jammu and kashmir
+JK
+terrorism in indonesia
+IN
+terrorism in bangladesh
+BA
+terrorism in chile
+CH
+insurgency in the maghreb
+MA
+islamic terrorism in europe
+EU
+insurgency in khyber pakhtunkhwa
+PA
+iraqi insurgency
+IQ
+terrorism in the netherlands
+NE
+adf insurgency
+AD
+terrorism in burkina faso
+BF
+protests against emmanuel macron
+FR
+operation olive branch
+OO
+sistan and baluchestan insurgency
+SB
+moro conflict
+MO
+communist rebellion in the philippines
+PH
+insurgency in kashmir
+PA
+north korea–united states relations
+NK
+terrorism in saudi arabia
+SA
+oromo conflict
+OR
+war in north-west pakistan
+NW
+boko haram insurgency
+BH
+sinai insurgency
+SI
+[365]
+NO
+2019 turkish local elections
+TU
+insurgency in egypt
+EG
+second libyan civil war
+SL
+terrorism in pakistan
+PA
+insurgency in balochistan
+BA
+herder–farmer conflicts in nigeria
+NI
+terrorism in italy
+IT
+ypg–fsa relations
+YF
+sectarian violence in pakistan
+PA
+corsican conflict
+CC
+terrorism in israel
+IS
